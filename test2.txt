@@ -3,3 +3,4 @@ hehe   master
 haha   master
 hehe   newbranch
 haha   newbranch
+xucan  newbranch

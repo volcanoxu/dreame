@@ -4,3 +4,4 @@ hehe   newbranch
 haha   newbranch
 xucan  master ---
 keke
+create a new brach1

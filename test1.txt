@@ -4,3 +4,4 @@ work hard!
 fighting!
 marry
 haha
+new line in remote branch test
